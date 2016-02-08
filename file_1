@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+ git clone is the exact copy of a repository that doesn't need to have information pushed to it. Similar to a fork but not
